@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost/call/index.html</loc>
+    <loc>https://trustnet-day.github.io/trustnetday2024/call/index.html</loc>
   </url>
   <url>
-    <loc>http://localhost/categories/index.html</loc>
+    <loc>https://trustnet-day.github.io/trustnetday2024/categories/index.html</loc>
   </url>
   <url>
-    <loc>http://localhost/program/index.html</loc>
+    <loc>https://trustnet-day.github.io/trustnetday2024/program/index.html</loc>
   </url>
   <url>
-    <loc>http://localhost/keynotes/index.html</loc>
+    <loc>https://trustnet-day.github.io/trustnetday2024/keynotes/index.html</loc>
   </url>
   <url>
-    <loc>http://localhost/organizers/index.html</loc>
+    <loc>https://trustnet-day.github.io/trustnetday2024/organizers/index.html</loc>
   </url>
   <url>
-    <loc>http://localhost/sponsors/index.html</loc>
+    <loc>https://trustnet-day.github.io/trustnetday2024/sponsors/index.html</loc>
   </url>
   <url>
-    <loc>http://localhost/tags/index.html</loc>
+    <loc>https://trustnet-day.github.io/trustnetday2024/tags/index.html</loc>
   </url>
   <url>
-    <loc>http://localhost/localisation/index.html</loc>
+    <loc>https://trustnet-day.github.io/trustnetday2024/localisation/index.html</loc>
   </url>
 </urlset>

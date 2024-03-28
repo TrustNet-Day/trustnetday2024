@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Organizer(s) on TRUSTNET Day(s) 2024</title>
-    <link>http://localhost/organizers/index.html</link>
+    <link>https://trustnet-day.github.io/trustnetday2024/organizers/index.html</link>
     <description>Recent content in Organizer(s) on TRUSTNET Day(s) 2024</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <atom:link href="http://localhost/organizers/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://trustnet-day.github.io/trustnetday2024/organizers/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

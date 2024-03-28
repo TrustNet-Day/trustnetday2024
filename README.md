@@ -1,1 +1,0 @@
-# trustnetday2024

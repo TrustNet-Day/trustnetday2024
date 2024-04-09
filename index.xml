@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TRUSTNET Day(s) 2024</title>
+    <link>https://trustnet-day.github.io/trustnetday2024/index.html</link>
+    <description>Recent content on TRUSTNET Day(s) 2024</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="https://trustnet-day.github.io/trustnetday2024/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Call for participation</title>
+      <link>https://trustnet-day.github.io/trustnetday2024/call/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://trustnet-day.github.io/trustnetday2024/call/index.html</guid>
+      <description>Trust and Privacy in Networks (TRUSTNET DAY) Description of the event The second edition of TRUSTNET DAY is a 2-day workshop, whose main goal is to allow members of the research community and of the industry to exchange on matters of Trust, Security, and Privacy.
+Topics The first of the two workshop days will include presentations by researchers of all levels (senior, junior, Ph.D. students, etc.). The presentations and discussions will be focused on 4 topics in which the notion of trust plays a major part:</description>
+    </item>
+    <item>
+      <title>Conference program</title>
+      <link>https://trustnet-day.github.io/trustnetday2024/program/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://trustnet-day.github.io/trustnetday2024/program/index.html</guid>
+      <description>Day 1 Day 2 </description>
+    </item>
+    <item>
+      <title>Keynotes</title>
+      <link>https://trustnet-day.github.io/trustnetday2024/keynotes/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://trustnet-day.github.io/trustnetday2024/keynotes/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Organizer(s)</title>
+      <link>https://trustnet-day.github.io/trustnetday2024/organizers/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://trustnet-day.github.io/trustnetday2024/organizers/index.html</guid>
+      <description>Local Steering committee Cristina ONETE - University of Limoges, XLIM
+Nicolas ARAGON - University of Limoges, XLIM
+TRUSTNETDAY Steering committee Abderrahim Benslimane - Avignon University
+Melek Önen - EURECOM
+Valeria Loscri - INRIA</description>
+    </item>
+    <item>
+      <title>Sponsors</title>
+      <link>https://trustnet-day.github.io/trustnetday2024/sponsors/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://trustnet-day.github.io/trustnetday2024/sponsors/index.html</guid>
+      <description>Technical sponsors </description>
+    </item>
+    <item>
+      <title>Venue</title>
+      <link>https://trustnet-day.github.io/trustnetday2024/localisation/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://trustnet-day.github.io/trustnetday2024/localisation/index.html</guid>
+      <description>Location XLIM Limoges, 123, Avenue Albert Thomas 87000 LIMOGES, FRANCE</description>
+    </item>
+  </channel>
+</rss>

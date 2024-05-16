@@ -3,7 +3,7 @@
   <channel>
     <title>Keynotes :: TRUSTNET Day(s) 2024</title>
     <link>https://trustnet-day.github.io/trustnetday2024/keynotes/index.html</link>
-    <description>Trust and Privacy in Networks (TRUSTNET DAY) We are excited to announce the two following keynote speakers:&#xA;CEDRIC EICHLER : How private is differential privacy ? ABSTRACT: La quantité de données produites par les particuliers et les entreprises a explosé durant les dernières décennies. Leur exploitation offre des opportunités mais questionne quant au respect de la vie privée. La confidentialité différentielle (DP) s’est imposée comme modèle majeur pour protéger les données des individus tout en permettant des analyses statistiques.</description>
+    <description>We are excited to announce the two following keynote speakers:&#xA;CEDRIC EICHLER : How private is differential privacy ? PHILIPPE GABORIT : Cryptographie post-quantique, alternatives et enjeux CEDRIC EICHLER : How private is differential privacy ? La quantité de données produites par les particuliers et les entreprises a explosé durant les dernières décennies. Leur exploitation offre des opportunités mais questionne quant au respect de la vie privée. La confidentialité différentielle (DP) s’est imposée comme modèle majeur pour protéger les données des individus tout en permettant des analyses statistiques.</description>
     <generator>Hugo</generator>
     <language>en</language>
     <atom:link href="https://trustnet-day.github.io/trustnetday2024/keynotes/index.xml" rel="self" type="application/rss+xml" />

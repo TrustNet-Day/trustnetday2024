@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Conference program on TRUSTNET Day(s) 2024</title>
+    <title>Conference program :: TRUSTNET Day(s) 2024</title>
     <link>https://trustnet-day.github.io/trustnetday2024/program/index.html</link>
-    <description>Recent content in Conference program on TRUSTNET Day(s) 2024</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>The precise program will appear on the website imminently. In the mean time, here are some of the academic speakers we will be happy to welcome amongst us on May 23-24th :&#xA;Ghada Arfaoui Abderrahime Benslimane Sébastien Canard Cédric Eichler (Keynote speaker) Philippe Gaborit (Keynote speaker) Guillaume Goy Pascal Lafourcade Charles Olivier-Anclin Cristina Onete Melek Önen Olivier Ruatta In addition to these academic talks we will be welcoming several student presentations of recent results.</description>
+    <generator>Hugo</generator>
     <language>en</language>
     <atom:link href="https://trustnet-day.github.io/trustnetday2024/program/index.xml" rel="self" type="application/rss+xml" />
   </channel>

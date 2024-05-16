@@ -3,8 +3,8 @@
   <channel>
     <title>TRUSTNET Day(s) 2024</title>
     <link>https://trustnet-day.github.io/trustnetday2024/index.html</link>
-    <description>Recent content on TRUSTNET Day(s) 2024</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Trust and Privacy in Networks (TRUSTNET DAY) 2024 – May 23-24, Limoges Event description Welcome to the second edition of Trustnet Day, an event that aims to gather academics and members of the industry, allowing them to discuss topics related to the notion of trust!&#xA;For this second edition, we are organizing a two-day event in Limoges, with a Capture the Flag event scheduled in the afternoon between the two conference days.</description>
+    <generator>Hugo</generator>
     <language>en</language>
     <atom:link href="https://trustnet-day.github.io/trustnetday2024/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -12,34 +12,28 @@
       <link>https://trustnet-day.github.io/trustnetday2024/call/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://trustnet-day.github.io/trustnetday2024/call/index.html</guid>
-      <description>Trust and Privacy in Networks (TRUSTNET DAY) Description of the event The second edition of TRUSTNET DAY is a 2-day workshop, organised on May 23rd and 24th, whose main goal is to allow members of the research community and of the industry to exchange on matters of Trust, Security, and Privacy.
-Topics The first of the two workshop days will include presentations by researchers of all levels (senior, junior, Ph.D. students, etc.</description>
+      <description>Trust and Privacy in Networks (TRUSTNET DAY) Description of the event The second edition of TRUSTNET DAY is a 2-day workshop, organised on May 23rd and 24th, whose main goal is to allow members of the research community and of the industry to exchange on matters of Trust, Security, and Privacy.&#xA;Topics The first of the two workshop days will include presentations by researchers of all levels (senior, junior, Ph.D. students, etc.</description>
     </item>
     <item>
       <title>Conference program</title>
       <link>https://trustnet-day.github.io/trustnetday2024/program/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://trustnet-day.github.io/trustnetday2024/program/index.html</guid>
-      <description>Day 1 Day 2 </description>
+      <description>The precise program will appear on the website imminently. In the mean time, here are some of the academic speakers we will be happy to welcome amongst us on May 23-24th :&#xA;Ghada Arfaoui Abderrahime Benslimane Sébastien Canard Cédric Eichler (Keynote speaker) Philippe Gaborit (Keynote speaker) Guillaume Goy Pascal Lafourcade Charles Olivier-Anclin Cristina Onete Melek Önen Olivier Ruatta In addition to these academic talks we will be welcoming several student presentations of recent results.</description>
     </item>
     <item>
       <title>Keynotes</title>
       <link>https://trustnet-day.github.io/trustnetday2024/keynotes/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://trustnet-day.github.io/trustnetday2024/keynotes/index.html</guid>
-      <description>Trust and Privacy in Networks (TRUSTNET DAY) We are excited to announce the two following keynote speakers:
-CEDRIC EICHLER : title TBA soon PHILIPPE GABORIT : Cryptographie post-quantique, alternatives et enjeux </description>
+      <description>Trust and Privacy in Networks (TRUSTNET DAY) We are excited to announce the two following keynote speakers:&#xA;CEDRIC EICHLER : How private is differential privacy ? ABSTRACT: La quantité de données produites par les particuliers et les entreprises a explosé durant les dernières décennies. Leur exploitation offre des opportunités mais questionne quant au respect de la vie privée. La confidentialité différentielle (DP) s’est imposée comme modèle majeur pour protéger les données des individus tout en permettant des analyses statistiques.</description>
     </item>
     <item>
       <title>Organizer(s)</title>
       <link>https://trustnet-day.github.io/trustnetday2024/organizers/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://trustnet-day.github.io/trustnetday2024/organizers/index.html</guid>
-      <description>Local Steering committee Cristina ONETE - University of Limoges, XLIM
-Nicolas ARAGON - University of Limoges, XLIM
-TRUSTNETDAY Steering committee Abderrahim Benslimane - Avignon University
-Melek Önen - EURECOM
-Valeria Loscri - INRIA</description>
+      <description>Local Steering committee Cristina ONETE - University of Limoges, XLIM&#xA;Nicolas ARAGON - University of Limoges, XLIM&#xA;TRUSTNETDAY Steering committee Abderrahim Benslimane - Avignon University&#xA;Melek Önen - EURECOM&#xA;Valeria Loscri - INRIA</description>
     </item>
     <item>
       <title>Sponsors</title>
@@ -53,7 +47,7 @@ Valeria Loscri - INRIA</description>
       <link>https://trustnet-day.github.io/trustnetday2024/localisation/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://trustnet-day.github.io/trustnetday2024/localisation/index.html</guid>
-      <description>Location This event will take place at ESTER Technopole in Limoges. We will announce the specifics as soon as possible !</description>
+      <description>Location This event will take place at ENSIL-ENSCI in Limoges. We will announce the specifics as soon as possible !</description>
     </item>
   </channel>
 </rss>

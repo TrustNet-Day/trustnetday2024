@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Keynotes on TRUSTNET Day(s) 2024</title>
+    <title>Keynotes :: TRUSTNET Day(s) 2024</title>
     <link>https://trustnet-day.github.io/trustnetday2024/keynotes/index.html</link>
-    <description>Recent content in Keynotes on TRUSTNET Day(s) 2024</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Trust and Privacy in Networks (TRUSTNET DAY) We are excited to announce the two following keynote speakers:&#xA;CEDRIC EICHLER : How private is differential privacy ? ABSTRACT: La quantité de données produites par les particuliers et les entreprises a explosé durant les dernières décennies. Leur exploitation offre des opportunités mais questionne quant au respect de la vie privée. La confidentialité différentielle (DP) s’est imposée comme modèle majeur pour protéger les données des individus tout en permettant des analyses statistiques.</description>
+    <generator>Hugo</generator>
     <language>en</language>
     <atom:link href="https://trustnet-day.github.io/trustnetday2024/keynotes/index.xml" rel="self" type="application/rss+xml" />
   </channel>

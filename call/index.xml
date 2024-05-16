@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Call for participation on TRUSTNET Day(s) 2024</title>
+    <title>Call for participation :: TRUSTNET Day(s) 2024</title>
     <link>https://trustnet-day.github.io/trustnetday2024/call/index.html</link>
-    <description>Recent content in Call for participation on TRUSTNET Day(s) 2024</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Trust and Privacy in Networks (TRUSTNET DAY) Description of the event The second edition of TRUSTNET DAY is a 2-day workshop, organised on May 23rd and 24th, whose main goal is to allow members of the research community and of the industry to exchange on matters of Trust, Security, and Privacy.&#xA;Topics The first of the two workshop days will include presentations by researchers of all levels (senior, junior, Ph.D. students, etc.</description>
+    <generator>Hugo</generator>
     <language>en</language>
     <atom:link href="https://trustnet-day.github.io/trustnetday2024/call/index.xml" rel="self" type="application/rss+xml" />
   </channel>
